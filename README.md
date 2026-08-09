@@ -9,7 +9,12 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/benjaminkhiyar/">
+  <a href="https://www.linkedin.com/in/benjaminkhiyar/" target="_blank">
+   <img
+      src="./assets/linkedin-badge.svg"
+      alt="LinkedIn"
+      width="150"
+    />
     <img
       src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
       alt="LinkedIn"
