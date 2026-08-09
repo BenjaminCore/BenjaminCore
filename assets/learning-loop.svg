@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="250" viewBox="0 0 1400 250">
+  <rect width="1400" height="250" rx="18" fill="#0D1117"/>
+  <style>
+    .num {
+      font: 600 16px Arial, sans-serif;
+      fill: #8B949E;
+      letter-spacing: 3px;
+    }
+    .label {
+      font: 700 28px Arial, sans-serif;
+      fill: #D6C3A0;
+      letter-spacing: 3px;
+    }
+    .line {
+      stroke: #30363D;
+      stroke-width: 2;
+    }
+    .arrow {
+      stroke: #D6C3A0;
+      stroke-width: 3;
+      fill: none;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+  </style>
+
+  <line x1="280" y1="45" x2="280" y2="205" class="line"/>
+  <line x1="560" y1="45" x2="560" y2="205" class="line"/>
+  <line x1="840" y1="45" x2="840" y2="205" class="line"/>
+  <line x1="1120" y1="45" x2="1120" y2="205" class="line"/>
+
+  <g text-anchor="middle">
+    <text x="140" y="72" class="num">01</text>
+    <text x="140" y="145" class="label">LEARN</text>
+
+    <text x="420" y="72" class="num">02</text>
+    <text x="420" y="145" class="label">BUILD</text>
+
+    <text x="700" y="72" class="num">03</text>
+    <text x="700" y="145" class="label">SHIP</text>
+
+    <text x="980" y="72" class="num">04</text>
+    <text x="980" y="145" class="label">REVIEW</text>
+
+    <text x="1260" y="72" class="num">05</text>
+    <text x="1260" y="145" class="label">IMPROVE</text>
+  </g>
+
+  <path d="M246 125h20m-8-8 8 8-8 8" class="arrow"/>
+  <path d="M526 125h20m-8-8 8 8-8 8" class="arrow"/>
+  <path d="M806 125h20m-8-8 8 8-8 8" class="arrow"/>
+  <path d="M1086 125h20m-8-8 8 8-8 8" class="arrow"/>
+</svg>
