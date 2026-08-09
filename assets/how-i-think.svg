@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360">
+<rect width="1400" height="360" rx="24" fill="#0D1117"/>
+<g stroke="#30363D" fill="none" opacity=".7"><path d="M80 180H1320"/><path d="M350 65V295M700 65V295M1050 65V295"/></g>
+<style>
+.title{font:700 26px Arial,sans-serif;fill:#D6C3A0;letter-spacing:4px}
+.num{font:700 15px Arial,sans-serif;fill:#8B949E;letter-spacing:2px}
+.body{font:400 18px Arial,sans-serif;fill:#F0F2F4}
+.small{font:400 15px Arial,sans-serif;fill:#8B949E}
+.icon{stroke:#D6C3A0;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}
+</style>
+
+<g transform="translate(175,0)">
+<text x="-65" y="75" class="num">01</text>
+<circle cx="0" cy="132" r="34" class="icon"/><path d="M0 83v22M0 159v22M-49 132h22M27 132h22M-34 98l16 16M18 150l16 16M34 98l-16 16M-18 150l-16 16" class="icon"/>
+<text x="-75" y="230" class="title">ADAPT</text><text x="-112" y="266" class="small">Understand before choosing.</text>
+</g>
+
+<g transform="translate(525,0)">
+<text x="-65" y="75" class="num">02</text>
+<rect x="-30" y="102" width="60" height="60" rx="8" class="icon"/><circle cx="0" cy="132" r="9" class="icon"/><path d="M-52 110h12M40 110h12M-52 132h12M40 132h12M-52 154h12M40 154h12" class="icon"/>
+<text x="-88" y="230" class="title">CLARIFY</text><text x="-114" y="266" class="small">Remove noise. Create structure.</text>
+</g>
+
+<g transform="translate(875,0)">
+<text x="-65" y="75" class="num">03</text>
+<path d="M-40 144l40-24 40 24v46l-40 24-40-24zM-40 144l40 24 40-24M0 168v46" class="icon"/>
+<text x="-67" y="230" class="title">BUILD</text><text x="-105" y="266" class="small">Design with intent and precision.</text>
+</g>
+
+<g transform="translate(1225,0)">
+<text x="-65" y="75" class="num">04</text>
+<path d="M-31 113a43 43 0 0 1 64 2M34 115l-3-19M34 115l-20-1M31 151a43 43 0 0 1-64-2M-34 149l3 19M-34 149l20 1" class="icon"/>
+<text x="-55" y="230" class="title">OWN</text><text x="-103" y="266" class="small">Ship. Learn. Improve. Repeat.</text>
+</g>
+</svg>

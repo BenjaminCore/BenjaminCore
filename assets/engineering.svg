@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="380" viewBox="0 0 1400 380">
+<rect width="1400" height="380" rx="24" fill="#0D1117"/>
+<style>
+.kicker{font:700 15px Arial,sans-serif;fill:#8B949E;letter-spacing:3px}
+.head{font:700 24px Arial,sans-serif;fill:#D6C3A0;letter-spacing:2px}
+.item{font:600 19px Arial,sans-serif;fill:#F0F2F4}
+.note{font:400 15px Arial,sans-serif;fill:#8B949E}
+.line{stroke:#30363D;stroke-width:2;fill:none}
+.node{fill:#111820;stroke:#30363D;stroke-width:1.5}
+</style>
+<text x="70" y="62" class="kicker">CURRENT CORE</text>
+<path d="M70 92H1330" class="line"/>
+<g>
+<rect x="70" y="120" width="220" height="82" rx="14" class="node"/><text x="180" y="157" text-anchor="middle" class="item">React</text><text x="180" y="181" text-anchor="middle" class="note">interfaces</text>
+<rect x="330" y="120" width="220" height="82" rx="14" class="node"/><text x="440" y="157" text-anchor="middle" class="item">Node.js</text><text x="440" y="181" text-anchor="middle" class="note">backend</text>
+<rect x="590" y="120" width="220" height="82" rx="14" class="node"/><text x="700" y="157" text-anchor="middle" class="item">JavaScript</text><text x="700" y="181" text-anchor="middle" class="note">language</text>
+<rect x="850" y="120" width="220" height="82" rx="14" class="node"/><text x="960" y="157" text-anchor="middle" class="item">SQL</text><text x="960" y="181" text-anchor="middle" class="note">data modeling</text>
+<rect x="1110" y="120" width="220" height="82" rx="14" class="node"/><text x="1220" y="157" text-anchor="middle" class="item">Figma</text><text x="1220" y="181" text-anchor="middle" class="note">product design</text>
+</g>
+<text x="70" y="265" class="kicker">EXPANDING THE CORE</text>
+<path d="M70 295H1330" class="line"/>
+<text x="70" y="340" class="head">Java</text><text x="235" y="340" class="head">Angular</text><text x="430" y="340" class="head">Docker</text><text x="615" y="340" class="head">AWS</text><text x="760" y="340" class="head">CI/CD</text><text x="935" y="340" class="head">Agentic AI</text>
+</svg>
