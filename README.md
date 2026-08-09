@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/benjaminkhiyar/">
     <img
-    src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=D6C3A0"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
   </a>
