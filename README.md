@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/benjaminkhiyar/">    
+  <a href="https://www.linkedin.com/in/benjaminkhiyar/" target="_blank">    
     <img
       src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge"
       alt="LinkedIn"
